@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Lap Tap Love",
+  "base_artist": "koyori（電ポルP）、向日葵",
+  "createdAt": "2025-12-09T13:14:27.305939Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lap Tap Love",
+      "artist": "koyori feat. 向日葵",
+      "has_synced": false,
+      "path": "select/01_Lap_Tap_Love_koyori_feat._向日葵.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lap Tap Love",
+      "artist": "koyori(電ポルP)/向日葵",
+      "has_synced": false,
+      "path": "select/pl_01_Lap_Tap_Love_koyori(電ポルP)_向日葵.txt"
+    }
+  ]
+}
