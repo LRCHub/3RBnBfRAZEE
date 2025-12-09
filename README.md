@@ -1,0 +1,51 @@
+# koyori（電ポルP）、向日葵 – Lap Tap Love
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Get you Lovely Rap Tap Tap 恋の音を刻め
+"じゃあね" 弱虫にバイバイしてさ
+Want you Lovely Rap Tap Tap 二人踊り出す
+奏でる恋の Start
+
+曖昧な "I love you"
+そんなんじゃ伝わらないし
+必殺の Posing
+そんな自信ないしな
+
+君の笑顔で Warning
+魔法かけられてるんです
+大切な Distance
+解らなくなっちゃうな
+
+Get you Lovely Rap Tap Tap 恋がドア叩く
+ふと気付いたら好きになってた
+Want you Lovely Rap Tap Tap 君に声届け
+少しの勇気で Happy day
+
+携帯が Ring Ring
+君からかな？ 期待して
+誘惑の Lip Tip
+背伸びしちゃってるかな？
+
+Get you Lovely Rap Tap Tap 恋の迷宮で
+ぎゅっと怖くても泣きたくなっても
+Want you Lovely Rap Tap Tap 君に会えるはず
+ときどき転んで Step by step
+
+おやすみの前に考えちゃう
+ああもうどうすんの
+眠れなくなっちゃうじゃん
+遅刻したら君のせいだから！
+
+もっと Lovely Rap Tap Tap 恋がドア叩く
+ふと気付いたら好きになってた
+Want you Lovely Rap Tap Tap 君に声届け
+叶える恋をしよう
+
+Get you Lovely Rap Tap Tap 恋がドア叩く
+ふと気付いたら好きになってた
+Want you Lovely Rap Tap Tap 君に声届け
+少しの勇気できっと伝わるはずだよ
+お願い あたしの "I love you"
+```
